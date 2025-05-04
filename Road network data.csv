@@ -1,0 +1,145 @@
+name,highway,maxspeed,oneway,lanes,Edge ID,Length (km),Start Node ,End Node,Direction
+Roxas Avenue,trunk,60,,4,E1,0.584,N32,N43,Bidirectional
+Brother Raymund Jeffrey Road,tertiary,,,2,E2,0.703,N32,N15,Bidirectional
+Brother Raymund Jeffrey Road,tertiary,,,2,E3,0.107,N15,N11,Bidirectional
+Brother Raymund Jeffrey Road,tertiary,,,2,E4,0.1,N11,N55,Bidirectional
+Andres Bonifacio Avenue,trunk,60,,4,E5,1.48,N3,N85,Bidirectional
+Andres Bonifacio Avenue,trunk,60,,4,E6,0.085,N44,N3,Bidirectional
+Andres Bonifacio Avenue,trunk,60,,4,E7,0.253,N83,N44,Bidirectional
+Salvador T. Lluch Street,tertiary,,,,E8,0.094,N79,N77,Bidirectional
+Salvador T. Lluch Street,tertiary,,,,E9,0.083,N77,N51,Bidirectional
+Miguel Obach Street,tertiary,,no,,E10,0.05,N67,N66,Bidirectional
+Miguel Obach Street,tertiary,,no,,E11,0.096,N69,N67,Bidirectional
+Miguel Obach Street,tertiary,,no,,E12,0.083,N74,N69,Bidirectional
+Miguel Obach Street,tertiary,,no,,E13,0.093,N10,N74,Bidirectional
+M. Actub Street,tertiary,,no,,E14,0.132,N2,N12,Bidirectional
+M. Actub Street,tertiary,,no,,E15,0.041,N67,N2,Bidirectional
+M. Actub Street,tertiary,,no,,E16,0.086,N1,N67,Bidirectional
+M. Actub Street,tertiary,,no,,E17,0.056,N19,N1,Bidirectional
+Consunji Street,tertiary,,no,,E18,0.084,N2,N66,Bidirectional
+Consunji Street,tertiary,,no,,E19,0.087,N13,N66,Bidirectional
+Consunji Street,tertiary,,no,,E20,0.057,N23,N13,Bidirectional
+A. Rigodon Street,tertiary,,,,E21,1.603,N23,N55,Bidirectional
+Benito Labao Street Extension,tertiary,,no,,E22,0.526,N38,N48,Bidirectional
+Benito Labao Street Extension,tertiary,,no,,E23,0.115,N22,N38,Bidirectional
+Benito Labao Street Extension,tertiary,,no,,E24,0.091,N5,N22,Bidirectional
+Benito Labao Street Extension,tertiary,,no,,E25,0.085,N4,N5,Bidirectional
+Quezon Avenue,tertiary,,no,,E26,0.412,N81,N86,Bidirectional
+Tomas Cabili Avenue,tertiary,,no,6,E27,1.196,N46,N75,Bidirectional
+Tomas Cabili Avenue,tertiary,,no,6,E28,0.634,N80,N46,Bidirectional
+,tertiary,,yes,2,E29,0.125,N40,N41,One-way
+,tertiary,,yes,2,E30,0.131,N40,N41,One-way
+Ubaldo Laya Avenue,tertiary,,,2,E31,0.119,N25,N9,Bidirectional
+Ubaldo Laya Avenue,tertiary,,,2,E32,0.115,N9,N57,Bidirectional
+Ubaldo Laya Avenue,tertiary,,,2,E33,0.27,N57,N40,Bidirectional
+Ubaldo Laya Avenue,tertiary,,,2,E34,0.723,N41,N65,Bidirectional
+Roxas Avenue,trunk,60,yes,2,E35,0.126,N37,N35,One-way
+Mariano Badelles Sr. Street,secondary,,,,E36,0.09,N18,N70,Bidirectional
+Mariano Badelles Sr. Street,secondary,,,,E37,0.082,N70,N87,Bidirectional
+Mariano Badelles Sr. Street,secondary,,,,E38,0.093,N87,N12,Bidirectional
+Mariano Badelles Sr. Street,secondary,,,,E39,0.131,N12,N31,Bidirectional
+Mariano Badelles Sr. Street,secondary,,,,E40,0.136,N31,N29,Bidirectional
+Mariano Badelles Sr. Street,secondary,,,,E41,0.155,N29,N34,Bidirectional
+Mariano Badelles Sr. Street,secondary,,,,E42,0.064,N34,N30,Bidirectional
+Andres Bonifacio Avenue,trunk,60,,6,E43,0.1,N30,N21,Bidirectional
+Andres Bonifacio Avenue,trunk,60,,6,E44,0.799,N21,N20,Bidirectional
+Don Pedro Celdran Avenue,secondary,,no,2,E45,1.718,N17,N18,Bidirectional
+Isidro Emilia Kho Avenue,tertiary,30,,2,E46,0.375,N21,N48,Bidirectional
+Isidro Emilia Kho Avenue,tertiary,30,,2,E47,0.125,N48,N46,Bidirectional
+,tertiary,30,no,2,E48,0.556,N63,N47,Bidirectional
+Secondary Diversion Road,tertiary,40,,2,E49,0.088,N44,N42,Bidirectional
+Secondary Diversion Road,tertiary,40,,2,E50,0.684,N42,N52,Bidirectional
+Tomas Cabili Avenue,tertiary,,no,6,E51,0.178,N81,N82,Bidirectional
+Seminary Drive,tertiary,,,,E52,0.881,N84,N50,Bidirectional
+Antonio F. Areola Street,tertiary,30,yes,2,E53,0.451,N9,N11,One-way
+Antonio F. Areola Street,tertiary,30,yes,2,E54,0.148,N14,N9,One-way
+,trunk_link,,,,E55,0.025,N42,N3,Bidirectional
+,secondary,30,no,2,E56,0.457,N62,N47,Bidirectional
+Luinab Barangay Road,tertiary,,,,E57,2.693,N73,N54,Bidirectional
+,tertiary,,,,E58,0.744,N68,N83,Bidirectional
+,tertiary,,,,E59,0.687,N83,N72,Bidirectional
+,tertiary,,,,E60,1.617,N75,N72,Bidirectional
+,tertiary,,,,E61,0.666,N76,N75,Bidirectional
+,tertiary,,,,E62,0.015,N78,N76,Bidirectional
+Roxas Avenue,trunk,60,yes,2,E63,0.144,N64,N35,One-way
+Roxas Avenue,trunk,60,,4,E64,0.188,N35,N32,Bidirectional
+Benjamin Andrada Avenue,tertiary,30,no,2,E65,1.341,N45,N58,Bidirectional
+Gregorio T. Lluch Sr. Avenue,secondary,30,no,4,E66,0.541,N45,N84,Bidirectional
+Beltran Street,tertiary,40,no,2,E67,1.113,N58,N16,Bidirectional
+President Diosdado Macapagal Avenue,trunk,60,,4,E68,2.618,N6,N17,Bidirectional
+Circumferential Road 3,primary,80,no,2,E69,2.02,N59,N24,Bidirectional
+Circumferential Road 3,primary,80,no,2,E70,2.88,N24,N6,Bidirectional
+Circumferential Road 3,primary,40,,2,E71,0.611,N68,N52,Bidirectional
+Roxas Avenue,trunk,60,yes,2,E72,0.02,N64,N37,One-way
+Sabayle Street,tertiary,,no,,E73,0.254,N38,N39,Bidirectional
+Sabayle Street,tertiary,,no,,E74,0.193,N31,N38,Bidirectional
+Tomas Cabili Obelisk Rotunda,tertiary,,yes,,E75,0.015,N82,N86,One-way
+Tomas Cabili Obelisk Rotunda,tertiary,,yes,,E76,0.013,N82,N39,One-way
+Tomas Cabili Obelisk Rotunda,tertiary,,yes,,E77,0.007,N39,N80,One-way
+Tomas Cabili Obelisk Rotunda,tertiary,,yes,,E78,0.012,N86,N80,One-way
+Antonio F. Areola Street,tertiary,30,yes,2,E79,0.122,N71,N70,One-way
+Antonio F. Areola Street,tertiary,30,yes,2,E80,0.037,N74,N71,One-way
+Antonio F. Areola Street,tertiary,30,yes,2,E81,0.085,N77,N74,One-way
+Antonio F. Areola Street,tertiary,30,yes,2,E82,0.058,N8,N77,One-way
+Del Carmen Avenue,tertiary,,no,,E83,0.21,N65,N36,Bidirectional
+Del Carmen Avenue,tertiary,,no,,E84,0.28,N50,N65,Bidirectional
+Francisco Dagohoy Street,tertiary,,,2,E85,0.699,N76,N72,Bidirectional
+Circumferential Road 3,primary,80,,2,E86,1.657,N28,N63,Bidirectional
+Circumferential Road 3,primary,80,,2,E87,0.665,N59,N28,Bidirectional
+President Diosdado Macapagal Avenue,trunk,60,,4,E88,0.48,N17,N64,Bidirectional
+,tertiary,,,,E89,0.259,N28,N27,Bidirectional
+,tertiary,,,,E90,0.297,N27,N7,Bidirectional
+,tertiary,,,2,E91,1.919,N27,N37,Bidirectional
+Echiverri Street,tertiary,,,,E92,0.082,N71,N33,Bidirectional
+Echiverri Street,tertiary,,,,E93,0.095,N33,N2,Bidirectional
+Echiverri Street,tertiary,,,,E94,0.093,N26,N71,Bidirectional
+Don Pedro Celdran Avenue,tertiary,,,2,E95,0.544,N61,N56,Bidirectional
+Don Pedro Celdran Avenue,tertiary,,,2,E96,0.298,N56,N17,Bidirectional
+,trunk_link,,,,E97,0.04,N60,N34,Bidirectional
+Seminary Drive,tertiary,,,,E98,0.131,N14,N84,Bidirectional
+Seminary Drive,tertiary,,,,E99,0.518,N15,N43,Bidirectional
+Seminary Drive,tertiary,,,,E100,0.455,N25,N15,Bidirectional
+Seminary Drive,tertiary,,,,E101,0.275,N25,N14,Bidirectional
+Circumferential Road 3,primary,40,,2,E102,0.427,N16,N73,Bidirectional
+Quezon Avenue,tertiary,20,,4,E103,0.255,N5,N81,Bidirectional
+Quezon Avenue,tertiary,20,,4,E104,0.102,N87,N5,Bidirectional
+Roxas Avenue,trunk,60,,6,E105,0.055,N60,N30,Bidirectional
+Roxas Avenue,trunk,60,,6,E106,0.231,N23,N60,Bidirectional
+Roxas Avenue,trunk,60,,6,E107,0.053,N19,N23,Bidirectional
+Roxas Avenue,trunk,60,,6,E108,0.099,N53,N19,Bidirectional
+M. Actub Street,tertiary,,yes,,E109,0.097,N12,N22,One-way
+Antonio F. Areola Street,tertiary,30,yes,2,E110,0.353,N4,N81,One-way
+Antonio F. Areola Street,tertiary,30,yes,2,E111,0.106,N70,N4,One-way
+Andres Bonifacio Avenue,trunk,60,,6,E112,0.625,N49,N83,Bidirectional
+Andres Bonifacio Avenue,trunk,60,,6,E113,0.364,N78,N49,Bidirectional
+Andres Bonifacio Avenue,trunk,60,,6,E114,0.453,N20,N78,Bidirectional
+Miguel Sheker Avenue,tertiary,,no,,E115,0.659,N36,N49,Bidirectional
+Miguel Sheker Avenue,tertiary,,no,,E116,0.567,N36,N20,Bidirectional
+Roxas Avenue,trunk,60,,4,E117,0.083,N8,N53,Bidirectional
+Antonio F. Areola Street,tertiary,30,yes,2,E118,0.524,N11,N8,One-way
+Quezon Avenue,secondary,20,,4,E119,0.128,N33,N87,Bidirectional
+Quezon Avenue,secondary,20,,4,E120,0.038,N69,N33,Bidirectional
+Quezon Avenue,secondary,20,,4,E121,0.085,N51,N69,Bidirectional
+Roxas Avenue,trunk,60,,4,E122,0.093,N43,N8,Bidirectional
+Tino Badelles Street,tertiary,,no,,E123,0.123,N26,N18,Bidirectional
+Tino Badelles Street,tertiary,,no,,E124,0.035,N10,N26,Bidirectional
+Tino Badelles Street,tertiary,,no,,E125,0.09,N79,N10,Bidirectional
+Tino Badelles Street,tertiary,,no,,E126,0.057,N43,N79,Bidirectional
+Secondary Diversion Road,primary,40,,2,E127,0.372,N52,N54,Bidirectional
+Lanao del Norte Interior Circumferential Road,secondary,40,,4,E128,0.718,N59,N7,Bidirectional
+Lanao del Norte Interior Circumferential Road,secondary,40,,4,E129,0.297,N7,N61,Bidirectional
+Lanao del Norte Interior Circumferential Road,secondary,40,,4,E130,0.568,N61,N64,Bidirectional
+Circumferential Road 3,primary,80,,2,E131,1.065,N63,N62,Bidirectional
+Circumferential Road 3,primary,80,,2,E132,2.514,N62,N16,Bidirectional
+Circumferential Road 3,primary,40,,2,E133,0.036,N73,N68,Bidirectional
+Secondary Diversion Road,primary,40,,2,E134,1.042,N54,N85,Bidirectional
+,tertiary,,,,E135,1.156,N24,N56,Bidirectional
+Salvador T. Lluch Street,tertiary,,,,E136,0.098,N51,N1,Bidirectional
+Salvador T. Lluch Street,tertiary,,,,E137,0.052,N1,N13,Bidirectional
+Salvador T. Lluch Street,tertiary,,,,E138,0.156,N13,N29,Bidirectional
+Quezon Avenue,secondary,20,,4,E139,0.058,N53,N51,Bidirectional
+,secondary,30,no,2,E140,0.328,N47,N45,Bidirectional
+Benjamin Andrada Avenue,tertiary,30,no,2,E141,0.543,N58,N50,Bidirectional
+Gregorio T. Lluch Sr. Avenue,secondary,30,no,4,E142,0.441,N57,N55,Bidirectional
+Gregorio T. Lluch Sr. Avenue,secondary,30,no,4,E143,0.164,N84,N57,Bidirectional
+Gregorio T. Lluch Sr. Avenue,secondary,30,no,4,E144,0.532,N55,N53,Bidirectional
